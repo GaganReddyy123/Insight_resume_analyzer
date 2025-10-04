@@ -25,6 +25,4 @@ A Python web application that uses machine learning to analyze and score resumes
 - **Other Libraries**: Flask-WTF for form handling, docx for resume parsing
 
 
-## 👥 Contributors
-- [Sahil Kumar](https://github.com/TheWiz-12)
-- [Mansi Pandey](https://github.com/mansip18)
+
